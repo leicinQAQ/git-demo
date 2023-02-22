@@ -1,6 +1,5 @@
 hello git2
 heloo git3
 heloo git2
-<<<<<<< HEAD
 heloo git2 master test
 hello gi222 hot-fix test
